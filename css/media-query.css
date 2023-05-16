@@ -56,7 +56,7 @@
 <!-- BELOW 944PX TABLETS -->
 <!-- ******************** --> */
 
-@media(max-width:59em) {
+@media(max-width:40em) {
   html {
     font-size: 50%;
   }
@@ -183,7 +183,6 @@
 <!-- BELOW 704PX(smaller tablets) -->
 <!-- ******************** --> */
 @media(max-width:44em) {
-
   .grid--3-cols,
   .grid--4-cols {
     grid-template-columns: repeat(2, 1fr);
